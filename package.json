@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/angelik63/parcoursBlogApi#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
