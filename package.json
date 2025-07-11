@@ -1,0 +1,23 @@
+{
+  "name": "parcours-blogapi",
+  "version": "1.0.0",
+  "description": "Développer une petite API REST pour gérer des articles de blog et leurs commentaires.  \r L’API devra être codée **dans un seul fichier `app.js`**, sans routeurs, et utiliser des **fichiers `.json`** pour stocker les données.  \r Les fonctionnalités seront enrichies étape par étape (CRUD, fichiers, middlewares, etc.).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelik63/parcoursBlogApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelik63/parcoursBlogApi/issues"
+  },
+  "homepage": "https://github.com/angelik63/parcoursBlogApi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
